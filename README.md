@@ -2,7 +2,7 @@
 - 👀 I’m interested in here
 - 🌱 I’m currently learning investor
 - 💞️ I’m looking to collaborate on money
-- 📫 How to reach me now , let contact
+- 📫 How to reach me now , let contact to me 
 
 <!---
 gold24kETH/gold24kETH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
